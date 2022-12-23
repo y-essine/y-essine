@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @y-essine
-- ✨ Worked on bitbucket may -> december...
+- ✨ Worked on Bitbucket: May -> December
 
 <!---
 y-essine/y-essine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
